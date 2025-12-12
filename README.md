@@ -9,6 +9,16 @@ I am an aspiring **SOC Analyst** passionate about Blue Team operations, Threat D
 
 ---
 
+### 💼 Professional Experience
+
+**Cybersecurity Analyst (Practicum)**
+<br>_JTG Systems | Welland, Ontario (Remote)_
+<br>_Nov 2024 – Dec 2024_
+* Completed a hands-on practicum focused on enterprise cybersecurity protocols, vulnerability assessments, and AI-integrated IT security systems.
+* Conducted security assessments on client environments, identifying and mitigating **over 15 critical vulnerabilities** through penetration testing and configuration review.
+
+---
+
 ### 📜 Professional Certifications
 
 | Certification | Issuer | Date Issued | Verification |
