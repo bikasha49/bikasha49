@@ -5,8 +5,16 @@ I am an aspiring **SOC Analyst** passionate about Blue Team operations, Threat D
 
 - 🔭 I’m currently working on: **Advanced SIEM Use Case Development | Splunk SIEM Deployment**
 - 🎓 Education: **Cybersecurity Diploma, ABM College**
-- 📜 Certifications: **Security+** (In Progress), **Google Cybersecurity Professional**
 - 🧠 Core Skills: **Splunk, QRadar, Python Scripting, Linux Forensics, MITRE ATT&CK**
+
+---
+
+### 📜 Professional Certifications
+
+| Certification | Issuer | Date Issued | Verification |
+| :--- | :--- | :--- | :--- |
+| **Google Cybersecurity Professional** | *Google / Coursera* | Nov 2024 | [**Verify Credential**](https://coursera.org/verify/professional-cert/UO30EZ36NWIE) 🔗 |
+| **IBM AI Developer Professional** | *IBM / Coursera* | Dec 2024 | [**Verify Credential**](https://coursera.org/verify/professional-cert/MXK6TPRDI6YT) 🔗 |
 
 ---
 
