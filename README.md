@@ -1,11 +1,14 @@
 ### Hi there, I'm Bikasha 👋
-#### 🛡️ Cybersecurity Analyst & SOC Specialist based in Canada
 
-I am an aspiring **SOC Analyst** passionate about Blue Team operations, Threat Detection, and SIEM Architecture. I build home labs to simulate real-world attacks and practice detecting them using Splunk and Python.
+#### 🛡️ Cybersecurity Analyst & SOC Specialist
+**Location:** Prince Albert, SK, Canada  
+**Status:** 🟢 Actively seeking Entry-Level SOC Analyst / Security roles.
 
-- 🔭 I’m currently working on: **Advanced SIEM Use Case Development | Splunk SIEM Deployment**
-- 🎓 Education: **Cybersecurity Diploma, ABM College**
-- 🧠 Core Skills: **Splunk, QRadar, Python Scripting, Linux Forensics, MITRE ATT&CK**
+I am a security practitioner focused on **Blue Team operations**, **Threat Detection**, and **SIEM Architecture**. I don't just study theory; I build enterprise-grade home labs to simulate real-world attacks and practice detecting them using Splunk, QRadar, and Python.
+
+* 🔭 **Currently working on:** Advanced SIEM Use Case Development & Splunk Enterprise Deployment
+* 🎓 **Education:** Cybersecurity Diploma, ABM College
+* 🧠 **Core Skills:** Splunk, QRadar, Python Scripting, Linux Forensics, MITRE ATT&CK
 
 ---
 
