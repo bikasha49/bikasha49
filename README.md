@@ -41,6 +41,7 @@ I am an aspiring **SOC Analyst** passionate about Blue Team operations, Threat D
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🛡️&nbsp;**[Splunk&nbsp;SIEM&nbsp;Deployment](https://github.com/bikasha49/SIEM-Deployment-Project)** | Deployed a full SOC environment to ingest, normalize, and visualize Windows Logs for threat detection. | *Splunk, Windows, Sysmon* |
+| 🚩&nbsp;**[Log4j&nbsp;Vulnerability&nbsp;Assessment](https://github.com/bikasha49/HackTheBox-Unified-Tier-II-Challenge)** | Exploited the critical **Log4j (CVE-2021-44228)** vulnerability to gain Remote Code Execution and escalated privileges to Root. | *Log4j, Burp Suite, MongoDB* |
 | 🐍&nbsp;**[Python&nbsp;FIM&nbsp;Tool](https://github.com/bikasha49/Python-File-Integrity-Monitor)** | Built a custom File Integrity Monitor (FIM) to detect unauthorized file changes in real-time. | *Python, SHA-512, CLI* |
 
 ---
