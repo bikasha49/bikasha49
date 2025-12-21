@@ -50,7 +50,7 @@ I am a security practitioner focused on **Blue Team operations**, **Threat Detec
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bikasha-gurung-082290288" target="_blank">
+  <a href="https://www.linkedin.com/in/bikasha-gurung" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
