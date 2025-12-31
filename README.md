@@ -36,16 +36,18 @@ I am a security practitioner focused on **Blue Team operations**, **Threat Detec
   <img src="https://img.shields.io/badge/SIEM-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-5C1F87?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtualization-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-VMware/AWS cloud-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects (Portfolio)
+## Featured Projects Portfolio
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🛡️&nbsp;**[Splunk&nbsp;SIEM&nbsp;Deployment](https://github.com/bikasha49/SIEM-Deployment-Project)** | Deployed a full SOC environment to ingest, normalize, and visualize Windows Logs for threat detection. | *Splunk, Windows, Sysmon* |
-| 🚩&nbsp;**[Log4j&nbsp;Vulnerability&nbsp;Assessment](https://github.com/bikasha49/HackTheBox-Unified-Tier-II-Challenge)** | Exploited the critical **Log4j (CVE-2021-44228)** vulnerability to gain Remote Code Execution and escalated privileges to Root. | *Log4j, Burp Suite, MongoDB* |
-| 🐍&nbsp;**[Python&nbsp;FIM&nbsp;Tool](https://github.com/bikasha49/Python-File-Integrity-Monitor)** | Built a custom File Integrity Monitor (FIM) to detect unauthorized file changes in real-time. | *Python, SHA-512, CLI* |
+| [AWS Wazuh SIEM Threat Detection](https://github.com/bikasha49/wazuh-aws-siem-threat-detection) | Deployed a cloud based SIEM using Wazuh on AWS. Collected endpoint and cloud security logs. Built detection rules and alerts for threat identification. Validated detections using simulated attack activity. | Wazuh, AWS, EC2, Linux, Windows, Sysmon, File Integrity Monitoring, Threat Detection |
+| [Splunk SIEM Deployment](https://github.com/bikasha49/SIEM-Deployment-Project) | Designed and deployed an end to end SOC lab. Ingested and normalized Windows Event Logs and Sysmon data. Built dashboards and alerts for threat detection and incident triage. Simulated attacker behavior for analysis. | Splunk Enterprise, SPL, Windows Event Logs, Sysmon, Splunk Forwarder, Dashboards, Alerts, Windows, Linux |
+| [Log4j Vulnerability Assessment](https://github.com/bikasha49/HackTheBox-Unified-Tier-II-Challenge) | Exploited Log4j CVE 2021 44228 to achieve remote code execution. Established reverse shell access. Performed privilege escalation to root. Mapped attack flow to MITRE ATT and CK techniques. | Log4j, Burp Suite, Linux |
+| [Python File Integrity Monitoring Tool](https://github.com/bikasha49/Python-File-Integrity-Monitor) | Built a custom file integrity monitoring tool in Python. Created secure baselines using SHA 512 hashing. Detected unauthorized file changes and generated real time alerts via CLI. | Python, Hashing, File System Monitoring |
+
 
 ---
 
