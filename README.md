@@ -35,8 +35,8 @@ I am seeking an entry level role in a Security Operations Center. My aim is to h
 
 | Certification | Issuer | Date | Verification |
 |---|---|---|---|
-| Google Cybersecurity Professional Certificate | Google / Coursera | Nov 2024 | [Verify Credential](https://coursera.org) |
-| IBM AI Developer Professional Certificate | IBM / Coursera | Dec 2024 | [Verify Credential](https://coursera.org) |
+| Google Cybersecurity Professional Certificate | Google / Coursera | Nov 2024 | [Verify Credential](https://coursera.org/verify/professional-cert/UO30EZ36NWIE) |
+| IBM AI Developer Professional Certificate | IBM / Coursera | Dec 2024 | [Verify Credential](https://coursera.org/verify/professional-cert/MXK6TPRDI6YT) |
 
 ## Technical Stack
 
