@@ -1,58 +1,76 @@
-### Hi there, I'm Bikasha 👋
+# Hi there, I'm Bikasha 👋
 
-#### 🛡️ Cybersecurity Analyst & SOC Specialist
-**Location:** Prince Albert, SK, Canada  
-**Status:** 🟢 Actively seeking Entry-Level SOC Analyst / Security roles.
+## Cybersecurity Analyst & SOC Analyst
 
-I am a security practitioner focused on **Blue Team operations**, **Threat Detection**, and **SIEM Architecture**. I don't just study theory; I build enterprise-grade home labs to simulate real-world attacks and practice detecting them using Splunk, QRadar, and Python.
+- **Location**: Prince Albert, SK, Canada
+- **Status**: Actively seeking entry‑level SOC Analyst / Security roles
 
-* 🔭 **Currently working on:** Advanced SIEM Use Case Development & Splunk Enterprise Deployment
-* 🎓 **Education:** Cybersecurity Diploma, ABM College
-* 🧠 **Core Skills:** Splunk, QRadar, Python Scripting, Linux Forensics, MITRE ATT&CK
+I am a security practitioner focused on Blue Team operations, threat detection, and SIEM architecture. I build enterprise‑grade home labs to simulate real‑world attacks and practice detecting them using Splunk, Wazuh, and Python.
+### Career Goal
+I am seeking an entry level role in a Security Operations Center. My aim is to help organisations detect, analyse, and respond to threats while refining my skills in security engineering and incident response.
 
----
+### Currently Working On
+- Hack The Box. Weekly hands on practice. I publish one
+  short report per box with findings, detection ideas, and remediation.
+### Education
+- Cybersecurity Diploma, ABM College - Toronto Campus
 
-### 💼 Professional Experience
+### Skills
+- Splunk and Wazuh configuration and tuning
+- Python scripting and automation
+- Log analysis on Windows and Linux systems
+- Forensic techniques and incident response
+- MITRE ATT&CK mapping and threat hunting
+- Cloud security with AWS EC2
 
-**Cybersecurity Analyst (Practicum)**
-<br>_JTG Systems | Welland, Ontario (Remote)_
-<br>_Nov 2024 – Dec 2024_
-* Completed a hands-on practicum focused on enterprise cybersecurity protocols, vulnerability assessments, and AI-integrated IT security systems.
-* Conducted security assessments on client environments, identifying and mitigating **over 15 critical vulnerabilities** through penetration testing and configuration review.
+## Professional Experience
 
----
+### Cybersecurity Analyst (Practicum) – JTG Systems
+*Welland, Ontario (Remote) – Nov 2024 – Dec 2024*
 
-### 📜 Professional Certifications
+- Completed a hands‑on practicum focused on enterprise cybersecurity protocols, vulnerability assessments, and AI‑integrated IT security systems.
+- Conducted security assessments on client environments and mitigated more than fifteen critical vulnerabilities through penetration testing and configuration review.
 
-| Certification | Issuer | Date Issued | Verification |
-| :--- | :--- | :--- | :--- |
-| **Google Cybersecurity Professional** | *Google / Coursera* | Nov 2024 | [**Verify Credential**](https://coursera.org/verify/professional-cert/UO30EZ36NWIE) 🔗 |
-| **IBM AI Developer Professional** | *IBM / Coursera* | Dec 2024 | [**Verify Credential**](https://coursera.org/verify/professional-cert/MXK6TPRDI6YT) 🔗 |
+## Professional Certifications
 
----
+| Certification | Issuer | Date | Verification |
+|---|---|---|---|
+| Google Cybersecurity Professional Certificate | Google / Coursera | Nov 2024 | [Verify Credential](https://coursera.org) |
+| IBM AI Developer Professional Certificate | IBM / Coursera | Dec 2024 | [Verify Credential](https://coursera.org) |
 
-### 🛠️ Technical Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/SIEM-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-5C1F87?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtualization-VMware/AWS cloud-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-</p>
+## Technical Stack
+
+- Splunk Enterprise
+- Wazuh
+- Python
+- Kali Linux & Ubuntu
+- Windows Server & Windows Event Logs
+- AWS EC2
+- MITRE ATT&CK
 
 ## Featured Projects Portfolio
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [AWS Wazuh SIEM Threat Detection](https://github.com/bikasha49/wazuh-aws-siem-threat-detection) | Deployed a cloud based SIEM using Wazuh on AWS. Collected endpoint and cloud security logs. Built detection rules and alerts for threat identification. Validated detections using simulated attack activity. | Wazuh, AWS, EC2, Linux, Windows, Sysmon, File Integrity Monitoring, Threat Detection |
-| [Splunk SIEM Deployment](https://github.com/bikasha49/SIEM-Deployment-Project) | Designed and deployed an end to end SOC lab. Ingested and normalized Windows Event Logs and Sysmon data. Built dashboards and alerts for threat detection and incident triage. Simulated attacker behavior for analysis. | Splunk Enterprise, SPL, Windows Event Logs, Sysmon, Splunk Forwarder, Dashboards, Alerts, Windows, Linux |
-| [Log4j Vulnerability Assessment](https://github.com/bikasha49/HackTheBox-Unified-Tier-II-Challenge) | Exploited Log4j CVE 2021 44228 to achieve remote code execution. Established reverse shell access. Performed privilege escalation to root. Mapped attack flow to MITRE ATT and CK techniques. | Log4j, Burp Suite, Linux |
-| [Python File Integrity Monitoring Tool](https://github.com/bikasha49/Python-File-Integrity-Monitor) | Built a custom file integrity monitoring tool in Python. Created secure baselines using SHA 512 hashing. Detected unauthorized file changes and generated real time alerts via CLI. | Python, Hashing, File System Monitoring |
+### [Cloud SIEM Threat Detection Using Wazuh on AWS](https://github.com/bikasha49/wazuh-aws-siem-threat-detection)
+Built and operated a cloud‑based SIEM by deploying Wazuh on AWS EC2 and integrating a Windows Server 2022 endpoint. Configured secure communication, collected endpoint telemetry, enriched alerts with VirusTotal threat intelligence, mapped detections to the MITRE ATT&CK framework, and practiced threat hunting with dashboards and event‑level analysis.
 
+**Tech Stack**: Wazuh, AWS EC2, Windows Server 2022, Linux, Sysmon, VirusTotal API
 
----
+### [Splunk SIEM Deployment Project](https://github.com/bikasha49/SIEM-Deployment-Project)
+Designed and deployed an end‑to‑end SOC lab using Splunk Enterprise. Ingested and normalized Windows Event Logs and Sysmon data, configured forwarders, built dashboards and alerts for threat detection and incident triage, and simulated attacker behavior for analysis.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bikasha-gurung" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+**Tech Stack**: Splunk Enterprise, Splunk Universal Forwarder, SPL (Search Processing Language), Windows Event Logs, Sysmon
+
+### [Log4j Vulnerability Assessment (HackTheBox Unified Tier II Challenge)](https://github.com/bikasha49/HackTheBox-Unified-Tier-II-Challenge)
+Demonstrated exploitation of the Log4j (CVE‑2021‑44228) vulnerability on the Unifi Network Application. Used tools like Nmap, Wireshark, TCPDump, Burp Suite, and Rogue‑JNDI to gain remote code execution and achieve root access. Documented each stage—reconnaissance, exploitation, privilege escalation—and provided remediation recommendations.
+
+**Tech Stack**: Log4j exploit, Burp Suite, Rogue‑JNDI, MongoDB, Linux, MITRE ATT&CK
+
+### [Python File Integrity Monitor (FIM)](https://github.com/bikasha49/Python-File-Integrity-Monitor)
+Developed a custom file integrity monitoring tool in Python that creates SHA‑512 baselines of directory contents and continuously monitors for unauthorized file creation, modification, and deletion. The tool produces real‑time alerts and demonstrates the integrity aspect of the CIA triad.
+
+**Tech Stack**: Python, SHA‑512 hashing, Kali Linux
+
+## Get in Touch
+
+- **HackTheBox**: [profile](https://app.hackthebox.com/profile/1702321)
+- **LinkedIn**: [Bikasha Gurung](https://www.linkedin.com/in/bikasha-gurung)
