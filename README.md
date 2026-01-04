@@ -55,7 +55,7 @@ Built and operated a cloud‑based SIEM by deploying Wazuh on AWS EC2 and integr
 
 **Tech Stack**: Wazuh, AWS EC2, Windows Server 2022, Linux, Sysmon, VirusTotal API
 
-### [Splunk SIEM Deployment Project](https://github.com/bikasha49/SIEM-Deployment-Project)
+### [Splunk SIEM Deployment Windows Telemetry Threat Hunting](https://github.com/bikasha49/Splunk_SIEM_Deployment_Windows_Telemetry_Threat_Hunting)
 Designed and deployed an end‑to‑end SOC lab using Splunk Enterprise. Ingested and normalized Windows Event Logs and Sysmon data, configured forwarders, built dashboards and alerts for threat detection and incident triage, and simulated attacker behavior for analysis.
 
 **Tech Stack**: Splunk Enterprise, Splunk Universal Forwarder, SPL (Search Processing Language), Windows Event Logs, Sysmon
