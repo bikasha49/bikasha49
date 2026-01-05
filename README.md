@@ -53,22 +53,22 @@ I am seeking an entry level role in a Security Operations Center. My aim is to h
 ### [Wazuh AWS SOC Threat Hunting Lab](https://github.com/bikasha49/Wazuh_AWS_SOC_Threat_Hunting_Lab)
 Built and operated a cloud‑based SIEM by deploying Wazuh on AWS EC2 and integrating a Windows Server 2022 endpoint. Configured secure communication, collected endpoint telemetry, enriched alerts with VirusTotal threat intelligence, mapped detections to the MITRE ATT&CK framework, and practiced threat hunting with dashboards and event‑level analysis.
 
-**Tech Stack**: Wazuh, AWS EC2, Windows Server 2022, Linux, Sysmon, VirusTotal API
+**Tech Stack**: Wazuh, AWS EC2, Windows Server 2022, Linux, Sysmon, VirusTotal API.
 
 ### [Splunk SIEM Deployment Windows Telemetry Threat Hunting](https://github.com/bikasha49/Splunk_SIEM_Deployment_Windows_Telemetry_Threat_Hunting)
 Designed and deployed an end‑to‑end SOC lab using Splunk Enterprise. Ingested and normalized Windows Event Logs and Sysmon data, configured forwarders, built dashboards and alerts for threat detection and incident triage, and simulated attacker behavior for analysis.
 
-**Tech Stack**: Splunk Enterprise, Splunk Universal Forwarder, SPL (Search Processing Language), Windows Event Logs, Sysmon
+**Tech Stack**: Splunk Enterprise, Splunk Universal Forwarder, SPL (Search Processing Language), Windows Event Logs, Sysmon.
 
-### [Log4j Vulnerability Assessment (HackTheBox Unified Tier II Challenge)](https://github.com/bikasha49/HackTheBox-Unified-Tier-II-Challenge)
-Demonstrated exploitation of the Log4j (CVE‑2021‑44228) vulnerability on the Unifi Network Application. Used tools like Nmap, Wireshark, TCPDump, Burp Suite, and Rogue‑JNDI to gain remote code execution and achieve root access. Documented each stage—reconnaissance, exploitation, privilege escalation—and provided remediation recommendations.
+### [Log4Shell Remote Code Execution Assessment, HTB Unified)](https://github.com/bikasha49/htb_unified_log4shell_rce/tree/main)
+Demonstrated exploitation of the Log4j vulnerability, CVE 2021 44228, against the UniFi Network Application in an authorized lab environment. Performed reconnaissance, manually validated the vulnerability, and achieved remote code execution. Confirmed exploitation using packet level network analysis and escalated privileges to obtain root access. Documented each phase of the attack lifecycle with clear evidence and provided practical remediation recommendations aligned with real world security operations.
 
-**Tech Stack**: Log4j exploit, Burp Suite, Rogue‑JNDI, MongoDB, Linux, MITRE ATT&CK
+**Tech Stack**: Web exploitation analysis, Burp Suite, Rogue JNDI, network traffic analysis, MongoDB, Linux.
 
 ### [Python File Integrity Monitor (FIM)](https://github.com/bikasha49/Python-File-Integrity-Monitor)
 Developed a custom file integrity monitoring tool in Python that creates SHA‑512 baselines of directory contents and continuously monitors for unauthorized file creation, modification, and deletion. The tool produces real‑time alerts and demonstrates the integrity aspect of the CIA triad.
 
-**Tech Stack**: Python, SHA‑512 hashing, Kali Linux
+**Tech Stack**: Python, SHA‑512 hashing, Kali Linux.
 
 ## Get in Touch
 
