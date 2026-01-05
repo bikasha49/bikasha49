@@ -55,7 +55,7 @@ Built and operated a cloud‑based SIEM by deploying Wazuh on AWS EC2 and integr
 
 **Tech Stack**: Wazuh, AWS EC2, Windows Server 2022, Linux, Sysmon, VirusTotal API.
 
-### [Splunk SIEM Deployment Windows Telemetry Threat Hunting](https://github.com/bikasha49/Splunk_SIEM_Deployment_Windows_Telemetry_Threat_Hunting)
+### [Splunk SIEM Deployment Windows Telemetry Threat Hunting](https://github.com/bikasha49/splunk_siem_deployment_windows_telemetry_threat_hunting)
 Designed and deployed an end‑to‑end SOC lab using Splunk Enterprise. Ingested and normalized Windows Event Logs and Sysmon data, configured forwarders, built dashboards and alerts for threat detection and incident triage, and simulated attacker behavior for analysis.
 
 **Tech Stack**: Splunk Enterprise, Splunk Universal Forwarder, SPL (Search Processing Language), Windows Event Logs, Sysmon.
@@ -65,7 +65,7 @@ Demonstrated exploitation of the Log4j vulnerability, CVE 2021 44228, against th
 
 **Tech Stack**: Web exploitation analysis, Burp Suite, Rogue JNDI, network traffic analysis, MongoDB, Linux.
 
-### [Python File Integrity Monitor (FIM)](https://github.com/bikasha49/Python-File-Integrity-Monitor)
+### [Python File Integrity Monitor (FIM)](https://github.com/bikasha49/python_file_integrity_monitor)
 Developed a custom file integrity monitoring tool in Python that creates SHA‑512 baselines of directory contents and continuously monitors for unauthorized file creation, modification, and deletion. The tool produces real‑time alerts and demonstrates the integrity aspect of the CIA triad.
 
 **Tech Stack**: Python, SHA‑512 hashing, Kali Linux.
