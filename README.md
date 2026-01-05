@@ -60,7 +60,7 @@ Designed and deployed an end‑to‑end SOC lab using Splunk Enterprise. Ingeste
 
 **Tech Stack**: Splunk Enterprise, Splunk Universal Forwarder, SPL (Search Processing Language), Windows Event Logs, Sysmon.
 
-### [Log4Shell Remote Code Execution Assessment, HTB Unified)](https://github.com/bikasha49/htb_unified_log4shell_rce/tree/main)
+### [Log4Shell Remote Code Execution Assessment, HTB Unified](https://github.com/bikasha49/htb_unified_log4shell_rce/tree/main)
 Demonstrated exploitation of the Log4j vulnerability, CVE 2021 44228, against the UniFi Network Application in an authorized lab environment. Performed reconnaissance, manually validated the vulnerability, and achieved remote code execution. Confirmed exploitation using packet level network analysis and escalated privileges to obtain root access. Documented each phase of the attack lifecycle with clear evidence and provided practical remediation recommendations aligned with real world security operations.
 
 **Tech Stack**: Web exploitation analysis, Burp Suite, Rogue JNDI, network traffic analysis, MongoDB, Linux.
