@@ -66,9 +66,10 @@ Demonstrated exploitation of the Log4j vulnerability, CVE 2021 44228, against th
 **Tech Stack**: Web exploitation analysis, Burp Suite, Rogue JNDI, network traffic analysis, MongoDB, Linux.
 
 ### [Python File Integrity Monitor (FIM)](https://github.com/bikasha49/python_file_integrity_monitor)
-Developed a custom file integrity monitoring tool in Python that creates SHA‑512 baselines of directory contents and continuously monitors for unauthorized file creation, modification, and deletion. The tool produces real‑time alerts and demonstrates the integrity aspect of the CIA triad.
+Built a Python based File Integrity Monitoring tool that detects unauthorized file changes using SHA256 hashing and baseline comparison.
+The project demonstrates professional defensive security practices aligned with SOC workflows.
 
-**Tech Stack**: Python, SHA‑512 hashing, Kali Linux.
+**Tech Stack**: SHA256 hashing, Kali Linux.
 
 ## Get in Touch
 
