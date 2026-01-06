@@ -1,30 +1,34 @@
 # Hi there, I'm Bikasha 👋
-
-## Cybersecurity Analyst & SOC Analyst
-
-- **Location**: Prince Albert, SK, Canada
-- **Status**: Actively seeking entry‑level SOC Analyst / Security roles
-
-I am a security practitioner focused on Blue Team operations, threat detection, and SIEM architecture. I build enterprise‑grade home labs to simulate real‑world attacks and practice detecting them using Splunk, Wazuh, and Python.
-### Career Goal
-I am seeking an entry level role in a Security Operations Center. My aim is to help organisations detect, analyse, and respond to threats while refining my skills in security engineering and incident response.
+### About Me
+Cybersecurity graduate focused on SOC operations and defensive security.
+Hands on experience building monitoring, detection, and analysis projects with clear execution evidence.
+### Career Focus
+* SOC Analyst
+* Junior Cybersecurity Analyst
+* Blue Team Operations
 
 ### Currently Working On
-- Hack The Box. Weekly hands on practice. I publish one
-  short report per box with findings, detection ideas, and remediation.
+- Hack The Box hands on labs.
+- Weekly practice with short write ups covering findings, detection ideas, and remediation.
 ### Education
 - Cybersecurity Diploma, ABM College - Toronto Campus
 
-### Skills
-- Splunk and Wazuh configuration and tuning
-- Python scripting and automation
-- Log analysis on Windows and Linux systems
-- Forensic techniques and incident response
-- MITRE ATT&CK mapping and threat hunting
-- Cloud security with AWS EC2
+### Core Skills
+* File integrity monitoring and change detection
+*Security event analysis and alert interpretation
+* Baseline driven detection logic
+* SOC style monitoring and investigation workflows
+* Vulnerability assessment and exploitation analysis
+* Detection validation through controlled testing
+### Technical Skills
+* Python scripting for security automation
+* Cryptographic hashing using SHA 512
+* Linux system security fundamentals
+* Wazuh SIEM deployment and configuration
+* Splunk Enterprise deployment and log ingestion
+* Network and application traffic analysis
 
 ## Professional Experience
-
 ### Cybersecurity Analyst (Practicum) – JTG Systems
 *Welland, Ontario (Remote) – Nov 2024 – Dec 2024*
 
@@ -38,38 +42,19 @@ I am seeking an entry level role in a Security Operations Center. My aim is to h
 | Google Cybersecurity Professional Certificate | Google / Coursera | Nov 2024 | [Verify Credential](https://coursera.org/verify/professional-cert/UO30EZ36NWIE) |
 | IBM AI Developer Professional Certificate | IBM / Coursera | Dec 2024 | [Verify Credential](https://coursera.org/verify/professional-cert/MXK6TPRDI6YT) |
 
-## Technical Stack
-
-- Splunk Enterprise
-- Wazuh
-- Python
-- Kali Linux & Ubuntu
-- Windows Server & Windows Event Logs
-- AWS EC2
-- MITRE ATT&CK
-
 ## Featured Projects Portfolio
 
 ### [Wazuh AWS SOC Threat Hunting](https://github.com/bikasha49/wazuh_aws_soc_threat_hunting_lab)
-Built and operated a cloud‑based SIEM by deploying Wazuh on AWS EC2 and integrating a Windows Server 2022 endpoint. Configured secure communication, collected endpoint telemetry, enriched alerts with VirusTotal threat intelligence, mapped detections to the MITRE ATT&CK framework, and practiced threat hunting with dashboards and event‑level analysis.
-
-**Tech Stack**: Wazuh, AWS EC2, Windows Server 2022, Linux, Sysmon, VirusTotal API.
+Cloud based SIEM deployment using Wazuh on AWS with threat detection, MITRE mapping, and hunting workflows.
 
 ### [Splunk SIEM Deployment Windows Telemetry Threat Hunting](https://github.com/bikasha49/splunk_siem_deployment_windows_telemetry_threat_hunting)
-Designed and deployed an end‑to‑end SOC lab using Splunk Enterprise. Ingested and normalized Windows Event Logs and Sysmon data, configured forwarders, built dashboards and alerts for threat detection and incident triage, and simulated attacker behavior for analysis.
-
-**Tech Stack**: Splunk Enterprise, Splunk Universal Forwarder, SPL (Search Processing Language), Windows Event Logs, Sysmon.
+End to end SOC lab using Splunk for Windows telemetry ingestion, dashboards, alerts, and investigation.
 
 ### [Log4Shell Remote Code Execution Assessment, HTB Unified](https://github.com/bikasha49/htb_unified_log4shell_rce/tree/main)
-Demonstrated exploitation of the Log4j vulnerability, CVE 2021 44228, against the UniFi Network Application in an authorized lab environment. Performed reconnaissance, manually validated the vulnerability, and achieved remote code execution. Confirmed exploitation using packet level network analysis and escalated privileges to obtain root access. Documented each phase of the attack lifecycle with clear evidence and provided practical remediation recommendations aligned with real world security operations.
-
-**Tech Stack**: Web exploitation analysis, Burp Suite, Rogue JNDI, network traffic analysis, MongoDB, Linux.
+Controlled exploitation of CVE 2021 44228 to demonstrate attacker behavior and defensive impact.
 
 ### [Python File Integrity Monitor (FIM)](https://github.com/bikasha49/python_file_integrity_monitor)
-Built a Python based File Integrity Monitoring tool that detects unauthorized file changes using SHA256 hashing and baseline comparison.
-The project demonstrates professional defensive security practices aligned with SOC workflows.
-
-**Tech Stack**: SHA256 hashing, Kali Linux.
+Python based FIM tool using SHA 512 hashing to detect unauthorized file changes.
 
 ## Get in Touch
 
