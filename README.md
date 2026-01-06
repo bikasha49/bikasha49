@@ -50,7 +50,7 @@ Cloud based SIEM deployment using Wazuh on AWS with threat detection, MITRE mapp
 ### [Splunk SIEM Deployment Windows Telemetry Threat Hunting](https://github.com/bikasha49/splunk_siem_deployment_windows_telemetry_threat_hunting)
 End to end SOC lab using Splunk for Windows telemetry ingestion, dashboards, alerts, and investigation.
 
-### [Log4Shell Remote Code Execution Assessment, HTB Unified](https://github.com/bikasha49/htb_unified_log4shell_rce/tree/main)
+### [Log4Shell Remote Code Execution Assessment, HTB Unified](https://github.com/bikasha49/htb_unified_log4shell_rce)
 Controlled exploitation of CVE 2021 44228 to demonstrate attacker behavior and defensive impact.
 
 ### [Python File Integrity Monitor (FIM)](https://github.com/bikasha49/python_file_integrity_monitor)
