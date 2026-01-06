@@ -50,7 +50,7 @@ I am seeking an entry level role in a Security Operations Center. My aim is to h
 
 ## Featured Projects Portfolio
 
-### [Wazuh AWS SOC Threat Hunting Lab](https://github.com/bikasha49/Wazuh_AWS_SOC_Threat_Hunting_Lab)
+### [Wazuh AWS SOC Threat Hunting](https://github.com/bikasha49/wazuh_aws_soc_threat_hunting_lab)
 Built and operated a cloud‑based SIEM by deploying Wazuh on AWS EC2 and integrating a Windows Server 2022 endpoint. Configured secure communication, collected endpoint telemetry, enriched alerts with VirusTotal threat intelligence, mapped detections to the MITRE ATT&CK framework, and practiced threat hunting with dashboards and event‑level analysis.
 
 **Tech Stack**: Wazuh, AWS EC2, Windows Server 2022, Linux, Sysmon, VirusTotal API.
