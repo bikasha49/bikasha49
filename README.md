@@ -15,7 +15,7 @@ Hands on experience building monitoring, detection, and analysis projects with c
 
 ### Core Skills
 * File integrity monitoring and change detection
-*Security event analysis and alert interpretation
+* Security event analysis and alert interpretation
 * Baseline driven detection logic
 * SOC style monitoring and investigation workflows
 * Vulnerability assessment and exploitation analysis
